@@ -8,5 +8,8 @@ Sequence generation Springboot App
 4. Clean the project.
 5. Navigate to NumbersAppication.class and run it as `java Application/Springboot Application`.
 
+**Note:** By default server starts on `8080` port.
+
 ## Endpoints:
+
 
